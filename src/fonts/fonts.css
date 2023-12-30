@@ -1,56 +1,47 @@
 @font-face {
   font-family: "Graphik";
-  src: url("./Graphik/graphikbold-webfont.eot") format("eot"),
-    url("./Graphik/GraphikBold.otf") format("otf"),
-    url("./Graphik/graphikbold-webfont.woff") format("woff"),
+  font-display: swap;
+  src: url("./Graphik/graphikbold-webfont.woff") format("woff"),
     url("./Graphik/graphikbold-webfont.woff2") format("woff2");
   font-weight: 700;
 }
 
 @font-face {
   font-family: "Graphik";
-  src: url("./Graphik/graphikregular-webfont.eot") format("eot"),
-    url("./Graphik/GraphikRegular.otf") format("otf"),
-    url("./Graphik/graphikregular-webfont.woff") format("woff"),
+  font-display: swap;
+  src: url("./Graphik/graphikregular-webfont.woff") format("woff"),
     url("./Graphik/graphikregular-webfont.woff2") format("woff2");
   font-weight: 400;
 }
 
 @font-face {
   font-family: "Graphik";
-  src: url("./Graphik/graphikthin-webfont.eot") format("eot"),
-    url("./Graphik/GraphikThin.otf") format("otf"),
-    url("./Graphik/graphikthin-webfont.woff") format("woff"),
+  font-display: swap;
+  src: url("./Graphik/graphikthin-webfont.woff") format("woff"),
     url("./Graphik/graphikthin-webfont.woff2") format("woff2");
   font-weight: 100;
 }
 
 @font-face {
   font-family: "SF-Pro-Display";
-  src: url("./SF-Pro-Display/SF-Pro-Display-Regular.eot") format("eot"),
-    url("./SF-Pro-Display/SF-Pro-Display-Regular.otf") format("otf"),
-    url("./SF-Pro-Display/SF-Pro-Display-Regular.woff") format("woff"),
-    url("./SF-Pro-Display/sf-pro-display-regular-webfont.woff2")
-      format("woff2");
+  font-display: swap;
+  src: url("./SF-Pro-Display/SF-Pro-Display-Regular.woff") format("woff"),
+    url("./SF-Pro-Display/sf-pro-display-regular-webfont.woff2") format("woff2");
   font-weight: 400;
 }
 
 @font-face {
   font-family: "SF-Pro-Display";
-  src: url("./SF-Pro-Display/SF-Pro-Display-Bold.eot") format("eot"),
-    url("./SF-Pro-Display/SF-Pro-Display-Bold.otf") format("otf"),
-    url("./SF-Pro-Display/SF-Pro-Display-Bold.woff") format("woff"),
-    url("./SF-Pro-Display/sf-pro-display-bold-webfont.woff2")
-      format("woff2");
+  font-display: swap;
+  src: url("./SF-Pro-Display/SF-Pro-Display-Bold.woff") format("woff"),
+    url("./SF-Pro-Display/sf-pro-display-bold-webfont.woff2") format("woff2");
   font-weight: 700;
 }
 
 @font-face {
   font-family: "Montserrat";
-  src: url("./Montserrat/Montserrat-VariableFont_wght.ttf") format("ttf"),
-    url("./Montserrat/montserrat-variablefont_wght-webfont.eot")
-      format("eot"),
-    url("./Montserrat/montserrat-variablefont_wght-webfont.woff")
+  font-display: swap;
+  src: url("./Montserrat/montserrat-variablefont_wght-webfont.woff")
       format("woff"),
     url("./Montserrat/montserrat-variablefont_wght-webfont.woff2")
       format("woff2");
